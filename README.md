@@ -24,3 +24,13 @@ export TWITCH_CLIENT_SECRET="your_client_secret"
 ```
 go run main.go
 ```
+
+## Available commands
+```
+  add <username>      - Add a streamer to the monitor list.
+  remove <username>   - Remove a streamer from the list.
+  list                - Show the current list of monitored streamers.
+  toggle record       - Enable or disable recording of stream sessions.
+  options             - Show current options.oly !prog !lacalv [Just Chatting] (  status              - Force an immediate status check.
+  exit, quit          - Exit the application.
+```
