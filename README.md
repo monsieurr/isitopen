@@ -7,7 +7,7 @@ Give a list of streamers inside **config.json**
 
 ### 2. Connect to twitch API
 
-Retrieve your TWITCH_CLIENT_ID and TWITCH_CLIENT_SECRET from Twitch Developer Console : https://dev.twitch.tv/console
+Retrieve your **TWITCH_CLIENT_ID** and **TWITCH_CLIENT_SECRET** from Twitch Developer Console : https://dev.twitch.tv/console
 
 #### Set Env Variables For Linux/macOS
 ```
